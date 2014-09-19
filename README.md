@@ -18,6 +18,7 @@ Contents
 
 * [Content](de/slowpoke/androidtank/content)
  - [Crypto](de/slowpoke/androidtank/content/Crypto.java): Collection of cryptography en-/decryption utilities
+ - [Persistable](de/slowpoke/androidtank/content/Persistable.java): De-/Serialization using the `Parcelable` way
 * [Graphics](de/slowpoke/androidtank/graphics)
  - [PathParcelable](de/slowpoke/androidtank/graphics/PathParcelable.java): a `android.graphics.Path` that implements `Parcelable`
   
