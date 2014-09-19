@@ -16,8 +16,8 @@ Contents
 =========
 
 
-* [Graphics](de/slowpoke/android/graphics)
- - [PathParcelable](de/slowpoke/android/graphics/PathParcelable.java): a `android.graphics.Path` that implements `Parcelable`
+* [Graphics](de/slowpoke/androidtank/graphics)
+ - [PathParcelable](de/slowpoke/androidtank/graphics/PathParcelable.java): a `android.graphics.Path` that implements `Parcelable`
   
 
 License

@@ -14,7 +14,7 @@
  *  limitations under the License.
  */
 
-package de.slowpoke.android.graphics;
+package de.slowpoke.androidtank.graphics;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;
