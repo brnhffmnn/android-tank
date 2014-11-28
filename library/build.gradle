@@ -5,20 +5,6 @@ repositories {
 }
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion '20.0.0'
-	
-	sourceSets {
-        main {
-            manifest.srcFile 'AndroidManifest.xml'
-            java.srcDirs = ['src']
-            resources.srcDirs = ['src']
-            aidl.srcDirs = ['src']
-            renderscript.srcDirs = ['src']
-            res.srcDirs = ['res']
-            assets.srcDirs = ['assets']
-        }
-
-        androidTest.setRoot('tests')
-    }
+    compileSdkVersion 21
+    buildToolsVersion '21.1.1'
 }
