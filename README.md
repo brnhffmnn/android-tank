@@ -1,14 +1,17 @@
 android-tank
 ============
+[![Build Status](https://travis-ci.org/panzerfahrer/android-tank.svg?branch=master)](https://travis-ci.org/panzerfahrer/android-tank)
+
 
 A collection of Android related implementations that I find valuable.
+
 
 And here comes a tank:
 
 ```
-        ___
-       |"""\--=
-       (____)
+      ___
+     |"""\--=
+     (____)
   
 ```
 
