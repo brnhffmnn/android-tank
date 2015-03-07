@@ -28,6 +28,17 @@ Contents
    - [RotatedDrawable](de/slowpoke/androidtank/graphics/drawable/RotatedDrawable.java): a `Drawable` that can be programmatically rotated
   
 
+Usage
+======
+
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
+    
+    dependencies {
+        compile 'com.github.panzerfahrer:android-tank:1.0.0'
+    }
+
 License
 =======
 
@@ -38,7 +49,7 @@ License
   you may not use this file except in compliance with the License.
   You may obtain a copy of the License at
 
-	http://www.apache.org/licenses/LICENSE-2.0
+    http://www.apache.org/licenses/LICENSE-2.0
  
   Unless required by applicable law or agreed to in writing, software
   distributed under the License is distributed on an "AS IS" BASIS,
