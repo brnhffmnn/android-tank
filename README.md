@@ -24,13 +24,15 @@ Contents
  - [Persistable](de/slowpoke/androidtank/content/Persistable.java): De-/Serialization using the `Parcelable` way
 * [Graphics](de/slowpoke/androidtank/graphics)
  - [PathParcelable](de/slowpoke/androidtank/graphics/PathParcelable.java): a `android.graphics.Path` that implements `Parcelable`
+  - [Drawable](de/slowpoke/androidtank/graphics/drawable)
+   - [RotatedDrawable](de/slowpoke/androidtank/graphics/drawable/RotatedDrawable.java): a `Drawable` that can be programmatically rotated
   
 
 License
 =======
 
 ```
-  Copyright 2014 Brian Hoffmann, slowpoke.de
+  Copyright 2015 Brian Hoffmann, slowpoke.de
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
