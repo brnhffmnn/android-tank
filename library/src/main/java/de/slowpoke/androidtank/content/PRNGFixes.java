@@ -1,6 +1,6 @@
-package de.slowpoke.androidtank.content;
-
 /*
+ * Copyright Google
+ *
  * This software is provided 'as-is', without any express or implied
  * warranty.  In no event will Google be held liable for any damages
  * arising from the use of this software.
@@ -9,6 +9,8 @@ package de.slowpoke.androidtank.content;
  * including commercial applications, and to alter it and redistribute it
  * freely, as long as the origin is not misrepresented.
  */
+
+package de.slowpoke.androidtank.content;
 
 import java.io.ByteArrayOutputStream;
 import java.io.DataInputStream;
