@@ -1,6 +1,6 @@
 android-tank
 ============
-[![Build Status](https://travis-ci.org/panzerfahrer/android-tank.svg?branch=master)](https://travis-ci.org/panzerfahrer/android-tank)
+[![Build Status](https://travis-ci.org/panzerfahrer/android-tank.svg?branch=master)](https://travis-ci.org/panzerfahrer/android-tank) [![Release](https://img.shields.io/github/tag/panzerfahrer/android-tank.svg?label=maven)](https://jitpack.io/#panzerfahrer/android-tank/v1.0.0)
 
 
 A collection of Android related implementations that I find valuable.
@@ -24,8 +24,8 @@ Contents
  - [Persistable](de/slowpoke/androidtank/content/Persistable.java): De-/Serialization using the `Parcelable` way
 * [Graphics](de/slowpoke/androidtank/graphics)
  - [PathParcelable](de/slowpoke/androidtank/graphics/PathParcelable.java): a `android.graphics.Path` that implements `Parcelable`
-  - [Drawable](de/slowpoke/androidtank/graphics/drawable)
-   - [RotatedDrawable](de/slowpoke/androidtank/graphics/drawable/RotatedDrawable.java): a `Drawable` that can be programmatically rotated
+* [Drawable](de/slowpoke/androidtank/graphics/drawable)
+ - [RotatedDrawable](de/slowpoke/androidtank/graphics/drawable/RotatedDrawable.java): a `Drawable` that can be programmatically rotated
   
 
 Usage
