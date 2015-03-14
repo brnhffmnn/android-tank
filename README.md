@@ -25,6 +25,7 @@ Contents
 * [Graphics](de/slowpoke/androidtank/graphics)
  - [PathParcelable](de/slowpoke/androidtank/graphics/PathParcelable.java): a `android.graphics.Path` that implements `Parcelable`
 * [Drawable](de/slowpoke/androidtank/graphics/drawable)
+ - [CircleCutOutColorDrawable](de/slowpoke/androidtank/graphics/drawable/CircleCutOutColorDrawable.java): a `Drawable` that draws a color and leaves out a definable circle
  - [RotatedDrawable](de/slowpoke/androidtank/graphics/drawable/RotatedDrawable.java): a `Drawable` that can be programmatically rotated
   
 
