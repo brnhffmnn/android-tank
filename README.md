@@ -1,6 +1,6 @@
 android-tank
 ============
-[![Build Status](https://travis-ci.org/panzerfahrer/android-tank.svg?branch=master)](https://travis-ci.org/panzerfahrer/android-tank) [![Release](https://img.shields.io/github/tag/panzerfahrer/android-tank.svg?label=maven)](https://jitpack.io/#panzerfahrer/android-tank/v1.0.0)
+[![Build Status](https://travis-ci.org/panzerfahrer/android-tank.svg?branch=master)](https://travis-ci.org/panzerfahrer/android-tank) [![Release](https://img.shields.io/github/tag/panzerfahrer/android-tank.svg?label=maven)](https://jitpack.io/#panzerfahrer/android-tank/v1.0.1)
 
 
 A collection of Android related implementations that I find valuable.
@@ -38,7 +38,7 @@ Usage
     }
     
     dependencies {
-        compile 'com.github.panzerfahrer:android-tank:1.0.0'
+        compile 'com.github.panzerfahrer:android-tank:v1.0.1'
     }
 
 License
