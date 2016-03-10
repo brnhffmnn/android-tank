@@ -19,15 +19,15 @@ And here comes a tank:
 Contents
 =========
 
-* [Content](de/slowpoke/androidtank/content)
- - [Crypto](de/slowpoke/androidtank/content/Crypto.java): Collection of cryptography en-/decryption utilities
- - [Persistable](de/slowpoke/androidtank/content/Persistable.java): De-/Serialization using the `Parcelable` way
-* [Graphics](de/slowpoke/androidtank/graphics)
- - [PathParcelable](de/slowpoke/androidtank/graphics/PathParcelable.java): a `android.graphics.Path` that implements `Parcelable`
-* [Drawable](de/slowpoke/androidtank/graphics/drawable)
- - [CircleCutOutColorDrawable](de/slowpoke/androidtank/graphics/drawable/CircleCutOutColorDrawable.java): a `Drawable` that draws a color and leaves out a definable circle
- - [ColorTintDrawable](de/slowpoke/androidtank/graphics/drawable/ColorTintDrawable.java): a `Drawable` that applies a color tint to another drawable
- - [RotatedDrawable](de/slowpoke/androidtank/graphics/drawable/RotatedDrawable.java): a `Drawable` that can be programmatically rotated
+* [Content](library/src/main/java/de/slowpoke/androidtank/content)
+ - [Crypto](library/src/main/java/de/slowpoke/androidtank/content/Crypto.java): Collection of cryptography en-/decryption utilities
+ - [Persistable](library/src/main/java/de/slowpoke/androidtank/content/Persistable.java): De-/Serialization using the `Parcelable` way
+* [Graphics](library/src/main/java/de/slowpoke/androidtank/graphics)
+ - [PathParcelable](library/src/main/java/de/slowpoke/androidtank/graphics/PathParcelable.java): a `android.graphics.Path` that implements `Parcelable`
+* [Drawable](library/src/main/java/de/slowpoke/androidtank/graphics/drawable)
+ - [CircleCutOutColorDrawable](library/src/main/java/de/slowpoke/androidtank/graphics/drawable/CircleCutOutColorDrawable.java): a `Drawable` that draws a color and leaves out a definable circle
+ - [ColorTintDrawable](library/src/main/java/de/slowpoke/androidtank/graphics/drawable/ColorTintDrawable.java): a `Drawable` that applies a color tint to another drawable
+ - [RotatedDrawable](library/src/main/java/de/slowpoke/androidtank/graphics/drawable/RotatedDrawable.java): a `Drawable` that can be programmatically rotated
   
 
 Usage
